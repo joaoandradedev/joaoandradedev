@@ -1,6 +1,7 @@
 ### Olá! Sou o João Vitor 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.vitorandrade_/)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-vitor-m-andrade)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.vitorandrade_/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/joão-vitor-m-andrade](https://www.linkedin.com/in/joão-vitor-macieira-de-andrade-733252249/))
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoandradedev&show_icons=true&theme=dracula)
 
