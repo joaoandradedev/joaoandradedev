@@ -2,8 +2,12 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.vitorandrade_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-macieira-de-andrade-733252249/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoandradedev&show_icons=true&theme=dracula)
+<hr/>
+<div>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=joaoandradedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="195em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoandradedev&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<hr/>
 
 ### Tecnologias🚀
 <div style="display: inline_block"><br/>
